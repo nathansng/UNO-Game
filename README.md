@@ -1,4 +1,4 @@
-# UNO-Game
+# UNO Based Side Project
 
 **December 9, 2020**
 
